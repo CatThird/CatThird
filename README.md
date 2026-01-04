@@ -1,16 +1,17 @@
-## Hi there 👋
+# 【欢迎来到我的个人主页】
+一个普普通通的大学生(专业`移动应用开发`)
+## 【技术栈】
+- **Python**
+- **Java**
+## 【服务器】
+[个人主页](http://maosan.top)
 
-<!--
-**CatThird/CatThird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[MC服务器-连接地址maosan.top:25565](http://maosan.top:25565)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[MC服务器-管理页面](http://maosan.top:23333)
+## 【目前在玩的游戏】
+崩坏：星穹铁道，明日方舟，Minecfaft
+## 【参与过游戏内测】
+异环，崩坏：星穹铁道3.8
+## 【已经预约的新游戏】
+异环，明日方舟：终末地
